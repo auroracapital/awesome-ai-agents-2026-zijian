@@ -1144,6 +1144,7 @@
 - [nanobot](https://github.com/HKUDS/nanobot) - 超軽量のオープンソースパーソナル AI エージェント（41K+ stars）。2026 年 4 月のリリース（v0.1.5.x）でスレッドスコープのセッション、自動コンパクトメモリ、Dream コンソリデーション、DeepSeek-V4 対応、Windows 対応を追加。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2Fnanobot&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [OpenBot](https://github.com/CopilotKit/OpenBot) - 🆕 🧪 **2026年8月17日（alpha）**。CopilotKit の自前 AG-UI 同僚プラットフォーム。エージェントごとに専用 PC（ブラウザ / ファイル / 許可ツール）を持ち、権限はフェイルクローズ、画面を見て操作を引き継げる。MIT、2.8K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FCopilotKit%2FOpenBot&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Cumora](https://github.com/yetone/cumora) - 🆕 **2026年8月17日**（招待制プレビュー）。人間と AI 同僚が同じ部屋にいるクロスプラットフォームチームチャット。人格 / 記憶 / 自発投稿 / メール。クラウド pod か、ローカルの Claude Code / Codex / Grok Build / Cursor を脳にする BYOA。MIT、3.1K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyetone%2Fcumora&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Healify](https://healify.ai/) - リアルタイム生体データ分析、睡眠・栄養の最適化、パーソナライズされた生活習慣の改善を支援する健康・長寿パーソナル AI エージェント。
 
 ---
 

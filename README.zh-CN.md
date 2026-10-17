@@ -1141,6 +1141,7 @@
 - [nanobot](https://github.com/HKUDS/nanobot) - 超轻量开源个人 AI Agent（41K+ stars）。2026 年 4 月版本（v0.1.5.x）新增线程级会话、自动压缩记忆、Dream 记忆巩固、DeepSeek-V4 支持与 Windows 支持。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2Fnanobot&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [OpenBot](https://github.com/CopilotKit/OpenBot) - 🆕 🧪 **2026-08-17（alpha）**。CopilotKit 的自托管 AG-UI 同事平台：每个 Agent 有独立电脑（浏览器 / 文件 / 授权工具），知识权限默认拒绝，可盯屏接管。MIT，2.8K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FCopilotKit%2FOpenBot&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Cumora](https://github.com/yetone/cumora) - 🆕 **2026-08-17**（邀请制预览）。人和 AI 同事同房的跨平台团队聊天：人格 / 记忆 / 主动开聊 / 邮件；云端 pod 或把本地 Claude Code / Codex / Grok Build / Cursor 当大脑。MIT，3.1K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyetone%2Fcumora&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Healify](https://healify.ai/) - 个人健康与长寿 AI Agent，提供实时生物特征分析、睡眠与营养优化以及个性化日常习惯指导。
 
 ---
 
